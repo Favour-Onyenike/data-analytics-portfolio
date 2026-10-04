@@ -41,7 +41,7 @@ I am open to junior **Data Analyst**, **Data Entry Clerk**, and data operations 
 
 **Resume:** [Download CV (PDF)](./assets/Favour_Onyenike_CV.pdf)
 
-
+> *If the CV link does not open yet, upload your PDF to the `assets` folder as `Favour_Onyenike_CV.pdf`.*
 
 ---
 
@@ -49,14 +49,19 @@ I am open to junior **Data Analyst**, **Data Entry Clerk**, and data operations 
 
 ### 1. Olist E-Commerce Analytics
 
-**[View code & full write-up →](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)**
+**Code:** [github.com/Favour-Onyenike/olist-ecommerce-analytics](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
 
-| | |
-|---|---|
-| **Description** | End-to-end analysis of the public Olist Brazilian e-commerce dataset (~99,000 orders, 2016–2018). Cleaned nine related tables, modelled the data in MySQL, and built a three-page Power BI dashboard on revenue, delivery performance, retention, and seller concentration. |
-| **Technologies** | Python (pandas), MySQL, Power BI, DAX |
-| **Skills** | Data cleaning, multi-table joins, feature engineering (e.g. late-delivery flag), category translation (Portuguese → English), KPI design, interactive dashboards, business recommendations |
-| **Result** | Showed that late delivery is linked to lower review scores, only ~3% of customers buy again, and a small group of sellers drives a large share of revenue. Delivered clear recommendations: state/seller scorecards, early late-order alerts, and retention pilots. |
+**Description**  
+End-to-end analysis of the public Olist Brazilian e-commerce dataset (~99,000 orders, 2016–2018). Cleaned nine related tables, modelled the data in MySQL, and built a three-page Power BI dashboard covering revenue, delivery performance, retention, and seller concentration.
+
+**Technologies**  
+Python (pandas) · MySQL · Power BI · DAX
+
+**Skills**  
+Data cleaning · Multi-table joins · Feature engineering (late-delivery flag) · Category translation (Portuguese → English) · KPI design · Interactive dashboards · Business recommendations
+
+**Result**  
+Found that late delivery is linked to lower review scores, only about 3% of customers buy again, and a small group of sellers drives a large share of revenue. Delivered practical recommendations: state/seller scorecards, early late-order alerts, and retention pilots.
 
 **Pipeline:** Raw CSVs → Python cleaning → MySQL → Power BI dashboard → findings & recommendations
 
@@ -70,23 +75,29 @@ Additional analysis and data-quality projects will be listed here as they are co
 
 ## Education
 
-| | |
-|---|---|
-| **Institution** | Baze University, Abuja, Nigeria |
-| **Programme** | B.Sc. Computer Science |
-| **Expected graduation** | 2026 |
-| **Relevant focus** | Data analysis, databases, programming, structured problem-solving |
+**Baze University**, Abuja, Nigeria  
+B.Sc. Computer Science  
+Expected graduation: **2026**  
+
+Relevant focus: data analysis, databases, programming, and structured problem-solving.
 
 ---
 
 ## Certificates
 
-| Certificate | Issuer | Year | Link |
-|-------------|--------|------|------|
-| *Add your certificate name* | *Issuer* | *Year* | *URL or —* |
-| *Add your certificate name* | *Issuer* | *Year* | *URL or —* |
+**Certificate name**  
+Issuer · Year  
+[View credential](#) *(replace with your link)*
 
-> Replace the placeholder rows with your real certificates (e.g. Excel, SQL, Power BI, Google Data Analytics, or course completion certificates).
+---
+
+**Certificate name**  
+Issuer · Year  
+[View credential](#) *(replace with your link)*
+
+---
+
+> Replace the placeholders above with your real certificates (e.g. Excel, SQL, Power BI, Google Data Analytics, or course completion certificates).
 
 ---
 
