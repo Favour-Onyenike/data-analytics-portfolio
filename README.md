@@ -41,7 +41,7 @@ I am open to junior **Data Analyst**, **Data Entry Clerk**, and data operations 
 
 **Resume:** [Download CV (PDF)](./assets/Favour_Onyenike_CV.pdf)
 
-> *If the CV link does not open yet, upload your PDF to the `assets` folder as `Favour_Onyenike_CV.pdf`.*
+
 
 ---
 
