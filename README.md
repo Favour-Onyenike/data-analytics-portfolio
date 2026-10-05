@@ -56,8 +56,8 @@ My work covers the full path from raw files to insight:
 
 I am open to junior **Data Analyst**, **Data Entry Clerk**, and data operations roles.
 
-[🌐 Portfolio Website](https://favour-onyenike.github.io/PORTFOLIO/)  
-[📄 Download CV (PDF)](./assets/Favour_Onyenike_CV.pdf)
+<a href="https://favour-onyenike.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>  
+<a href="./assets/Favour_Onyenike_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
 
 > *If the CV link does not open yet, upload your PDF to the `assets` folder as `Favour_Onyenike_CV.pdf`.*
 
