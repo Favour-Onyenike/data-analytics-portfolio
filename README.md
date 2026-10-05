@@ -94,8 +94,6 @@ Additional analysis and data-quality projects will be listed here as they are co
 **Baze University**, Abuja, Nigeria  
 B.Sc. Computer Science — **First Class**  
 
-Relevant focus: data analysis, databases, programming, and structured problem-solving.
-
 ---
 
 ## Certificates
@@ -111,8 +109,6 @@ Issuer · Year
 [View credential](#) *(replace with your link)*
 
 ---
-
-> Replace the placeholders above with your real certificates (e.g. Excel, SQL, Power BI, Google Data Analytics, or course completion certificates).
 
 ---
 
