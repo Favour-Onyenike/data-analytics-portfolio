@@ -25,8 +25,8 @@ Abuja, Nigeria
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="./assets/Favour_Onyenike_CV.pdf">
-  <img src="https://img.shields.io/badge/Download%20CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+<a href="./assets/Favour_Onyenike_Data_Analyst_Resume.docx">
+  <img src="https://img.shields.io/badge/Download%20CV-2A9D8F?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download CV" />
 </a>
 
 </div>
@@ -57,7 +57,7 @@ My work covers the full path from raw files to insight:
 I am open to junior **Data Analyst**, **Data Entry Clerk**, and data operations roles.
 
 <a href="https://favour-onyenike.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>  
-<a href="./assets/Favour_Onyenike_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
+<a href="./assets/Favour_Onyenike_Data_Analyst_Resume.docx"><img src="https://img.shields.io/badge/Download%20CV-2A9D8F?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download CV" /></a>
 
 ---
 
@@ -124,7 +124,7 @@ Issuer · Year
 | **Email** | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/favour-onyenike](https://www.linkedin.com/in/favour-onyenike) |
 | **GitHub** | [github.com/Favour-Onyenike](https://github.com/Favour-Onyenike) |
-| **CV** | [Download CV](./assets/Favour_Onyenike_CV.pdf) |
+| **CV** | [Download CV](./assets/Favour_Onyenike_Data_Analyst_Resume.docx) |
 
 ---
 
