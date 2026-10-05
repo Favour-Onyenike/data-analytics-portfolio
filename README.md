@@ -7,11 +7,27 @@
 Python · SQL · Power BI · Excel  
 Abuja, Nigeria
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://favour-onyenike.github.io/PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onyenike)
-[![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github)](https://github.com/Favour-Onyenike)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download-CV_(PDF)-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Favour_Onyenike_CV.pdf)
+<br/>
+
+<a href="https://favour-onyenike.github.io/PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/favour-onyenike">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Favour-Onyenike">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:onyenikefavour8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="./assets/Favour_Onyenike_CV.pdf">
+  <img src="https://img.shields.io/badge/CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+</a>
 
 </div>
 
@@ -104,37 +120,13 @@ Issuer · Year
 
 ## Contact
 
-<p align="center">
-
-<a href="https://favour-onyenike.github.io/PORTFOLIO/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:onyenikefavour8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-onyenikefavour8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/favour-onyenike">
-  <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/Favour-Onyenike">
-  <img src="https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="./assets/Favour_Onyenike_CV.pdf">
-  <img src="https://img.shields.io/badge/Download-CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
-</a>
-
-</p>
-
-<p align="center">
-<strong>Portfolio:</strong> <a href="https://favour-onyenike.github.io/PORTFOLIO/">favour-onyenike.github.io/PORTFOLIO</a><br/>
-<strong>Email:</strong> onyenikefavour8@gmail.com<br/>
-<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/favour-onyenike">linkedin.com/in/favour-onyenike</a><br/>
-<strong>GitHub:</strong> <a href="https://github.com/Favour-Onyenike">github.com/Favour-Onyenike</a><br/>
-<strong>Location:</strong> Abuja, Nigeria
-</p>
+| Platform | Link |
+|----------|------|
+| **Website** | [favour-onyenike.github.io/PORTFOLIO](https://favour-onyenike.github.io/PORTFOLIO/) |
+| **Email** | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/favour-onyenike](https://www.linkedin.com/in/favour-onyenike) |
+| **GitHub** | [github.com/Favour-Onyenike](https://github.com/Favour-Onyenike) |
+| **CV** | [Download PDF](./assets/Favour_Onyenike_CV.pdf) |
 
 ---
 
