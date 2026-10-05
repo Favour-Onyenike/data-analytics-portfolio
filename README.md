@@ -26,7 +26,7 @@ Abuja, Nigeria
 </a>
 &nbsp;
 <a href="./assets/Favour_Onyenike_CV.pdf">
-  <img src="https://img.shields.io/badge/CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  <img src="https://img.shields.io/badge/Download%20CV-2A9D8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
 </a>
 
 </div>
@@ -126,7 +126,7 @@ Issuer · Year
 | **Email** | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/favour-onyenike](https://www.linkedin.com/in/favour-onyenike) |
 | **GitHub** | [github.com/Favour-Onyenike](https://github.com/Favour-Onyenike) |
-| **CV** | [Download PDF](./assets/Favour_Onyenike_CV.pdf) |
+| **CV** | [Download CV](./assets/Favour_Onyenike_CV.pdf) |
 
 ---
 
