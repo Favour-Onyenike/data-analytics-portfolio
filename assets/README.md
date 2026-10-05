@@ -1,11 +1,7 @@
 # Assets
 
-Place your CV here so the portfolio Download CV button works:
+The portfolio Download CV badge points to the resume file provided by Favour.
 
-**File name (exact):** `Favour_Onyenike_CV.pdf`
+**File name:** `Favour_Onyenike_Data_Analyst_Resume.docx`
 
-Steps:
-1. Export your CV as PDF.
-2. On GitHub: open this `assets` folder → Add file → Upload files.
-3. Upload `Favour_Onyenike_CV.pdf`.
-4. Refresh the portfolio README — the Download CV badge will open the file.
+[Download the CV](./Favour_Onyenike_Data_Analyst_Resume.docx)
