@@ -29,7 +29,7 @@ Abuja, Nigeria
 
 ## About
 
-I am a Computer Science student at **Baze University** focused on **data analysis** and **data entry**. I clean, structure, and analyse data, then present findings in a way teams can use.
+I am a **first-class graduate** in **Computer Science** from **Baze University**, focused on **data analysis** and **data entry**. I clean, structure, and analyse data, then present findings in a way teams can use.
 
 My work covers the full path from raw files to insight:
 
@@ -78,8 +78,7 @@ Additional analysis and data-quality projects will be listed here as they are co
 ## Education
 
 **Baze University**, Abuja, Nigeria  
-B.Sc. Computer Science  
-Expected graduation: **2026**  
+B.Sc. Computer Science — **First Class**  
 
 Relevant focus: data analysis, databases, programming, and structured problem-solving.
 
