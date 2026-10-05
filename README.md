@@ -7,6 +7,7 @@
 Python · SQL · Power BI · Excel  
 Abuja, Nigeria
 
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://favour-onyenike.github.io/PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onyenike)
 [![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github)](https://github.com/Favour-Onyenike)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
@@ -39,6 +40,7 @@ My work covers the full path from raw files to insight:
 
 I am open to junior **Data Analyst**, **Data Entry Clerk**, and data operations roles.
 
+**Portfolio website:** [favour-onyenike.github.io/PORTFOLIO](https://favour-onyenike.github.io/PORTFOLIO/)  
 **Resume:** [Download CV (PDF)](./assets/Favour_Onyenike_CV.pdf)
 
 > *If the CV link does not open yet, upload your PDF to the `assets` folder as `Favour_Onyenike_CV.pdf`.*
@@ -105,6 +107,10 @@ Issuer · Year
 
 <p align="center">
 
+<a href="https://favour-onyenike.github.io/PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
 <a href="mailto:onyenikefavour8@gmail.com">
   <img src="https://img.shields.io/badge/Email-onyenikefavour8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -124,6 +130,7 @@ Issuer · Year
 </p>
 
 <p align="center">
+<strong>Portfolio:</strong> <a href="https://favour-onyenike.github.io/PORTFOLIO/">favour-onyenike.github.io/PORTFOLIO</a><br/>
 <strong>Email:</strong> onyenikefavour8@gmail.com<br/>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/favour-onyenike">linkedin.com/in/favour-onyenike</a><br/>
 <strong>GitHub:</strong> <a href="https://github.com/Favour-Onyenike">github.com/Favour-Onyenike</a><br/>
