@@ -83,10 +83,32 @@ Found that late delivery is linked to lower review scores, only about 3% of cust
 
 ---
 
-### 2. More projects coming soon
+### 2. EA SPORTS FC 24 Player, Team & League Analysis
+
+**Code and workbook:** [ea-sports-fc-24-analysis](https://github.com/Favour-Onyenike/ea-sports-fc-24-analysis)
+
+**Description**  
+An Excel analysis of **97,277 player records** and **3,771 team records** across the FIFA 20–24 editions represented in the workbook. Three dashboard pages explore player ratings, potential, age, in-game values and wages, plus team strength, club worth, transfer budgets, squad age and league comparisons.
+
+**Technologies**  
+Microsoft Excel · PivotTables · PivotCharts · Slicers
+
+**Skills**  
+Excel data organisation · PivotTable analysis · Interactive filtering · KPI and comparison design · Player and team profiling · Dashboard visualisation · Metric communication
+
+**Workbook design**  
+The workbook separates player and team data sheets from supporting calculation sheets and three presentation dashboards. It contains 18 PivotTables and eight charts, with FIFA-version and gender slicers available on the dashboard pages.
+
+**Dashboard snapshot**  
+The supplied executive view shows 97,277 players, a 66.2 average overall rating and 18,213 players from the Big Five leagues. The player page identifies 539 young talents using its under-21 and potential-85 rule. These figures describe the supplied workbook view, not current real-world football data.
+
+**Project files:** [Detailed project README, workbook and dashboard previews](https://github.com/Favour-Onyenike/ea-sports-fc-24-analysis)
+
+---
+
+### 3. More projects coming soon
 
 Additional analysis and data-quality projects will be listed here as they are completed.
-
 ---
 
 ## Education
